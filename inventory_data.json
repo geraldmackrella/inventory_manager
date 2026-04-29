@@ -1,0 +1,32 @@
+
+    {
+        "id": 1,
+        "name": "Notebook",
+        "category": "School Supplies",
+        "quantity": 25,
+        "price": 2.5,
+        "reorder_level": 10,
+        "supplier": "Campus Store",
+        "date_added": "2026-04-17"
+    },
+    {
+        "id": 2,
+        "name": "Usb Drive",
+        "category": "Electronics",
+        "quantity": 8,
+        "price": 12.99,
+        "reorder_level": 10,
+        "supplier": "Tech Depot",
+        "date_added": "2026-04-17"
+    },
+    {
+        "id": 3,
+        "name": "Pen Pack",
+        "category": "Office Supplies",
+        "quantity": 15,
+        "price": 4.75,
+        "reorder_level": 5,
+        "supplier": "Office World",
+        "date_added": "2026-04-17"
+    }
+]
